@@ -1,0 +1,324 @@
+bplist00Ò_WebMainResource_WebSubresourcesÕ	
+_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName^WebResourceURLOFã<!DOCTYPE html><html class=""><head>
+  <title>Restaurant Website</title>
+  <meta charset="utf-8">
+  <link type="text/css" rel="stylesheet" href="http://enge2.local:5757/css/style.css?now=1440560847342">
+<!--Temporary CodeKit addition to enable browser refreshing--><script type="text/javascript">var ckrpLibrary = {ckrphna:"ws://10.0.1.9:5758", ckrphnba:"ws://enge2.local:5758", ckrislocal1:"://10.0.1.9:5757", ckrislocal2:"enge2.local:5757", ckSEF:27};!function(){function e(e,t,n){var o=new RegExp("(\\?|\\&)"+t+"=.*?(?=(&|$))"),i=e.toString().split("#"),r=i[0],a=i[1],l=/\?.+$/,c=r;return c=o.test(r)?r.replace(o,"$1"+t+"="+n):l.test(r)?r+"&"+t+"="+n:r+"?"+t+"="+n,a&&(c+="#"+a),c}function t(e){if("undefined"==typeof e.nodeName)return null;for(var t=[];null!==e.parentNode;){for(var n=0,o=0,i=0;i<e.parentNode.childNodes.length;i++){var r=e.parentNode.childNodes[i];r.nodeName===e.nodeName&&(r===e&&(o=n),n++)}e.hasAttribute("id")&&""!==e.id?t.unshift(e.nodeName.toLowerCase()+"#"+e.id):n>1?(o++,t.unshift(e.nodeName.toLowerCase()+":nth-of-type("+o+")")):t.unshift(e.nodeName.toLowerCase()),t.unshift(">"),e=e.parentNode}return t.slice(3)}function n(e){var t=document.location,n=new RegExp("^\\.|^/(?!/)|^[\\w]((?!://).)*$|"+t.host+"|"+ckrpLibrary.ckrislocal1+"|"+ckrpLibrary.ckrislocal2);return e.match(n)}function o(){var e=document.body.parentNode;e.className=e.className.replace(/\s*lpcodekit\-loading/gi,"")}function i(e,t){for(var n=t.styleSheets,o=n.length,r=0;o>r;r++){var a=n[r];a&&e.push(a)}for(var l=t.querySelectorAll('link[rel="import"]'),c=l.length,s=0;c>s;s++){var d=l[s];d.import&&i(e,d.import)}}function r(e,t,n,o,i,r){n||(n=new Date);var a="undefined"==typeof n?"":"; expires="+n.toGMTString(),l="undefined"==typeof o?"":"; path="+o,c="undefined"==typeof i?"":"; domain="+i,s="undefined"==typeof r?"":"; secure";document.cookie=e+"="+encodeURIComponent(t)+a+l+c+s}function a(e){var t=document.cookie.indexOf(";",e);return-1===t&&(t=document.cookie.length),decodeURIComponent(document.cookie.substring(e,t))}function l(e){for(var t=e+"=",n=t.length,o=document.cookie.length,i=0;o>i;){var r=i+n;if(document.cookie.substring(i,r)===t)return a(r);if(i=document.cookie.indexOf(" ",i)+1,0===i)break}return null}function c(){var e=new Date;e.setTime(e.getTime()+864e5);var t=window.pageXOffset,n=window.pageYOffset,o=t+"_"+n;r("ckrp_ypos",o,e)}function s(){var e=l("ckrp_ypos");if(e){var t=e.split("_");2===t.length&&window.scrollTo(parseInt(t[0]),parseInt(t[1])),r("ckrp_ypos","0_0",new Date("January 01, 1970 01:01:00"))}}function d(t){function r(e){var t=document.getElementsByTagName("head")[0];if(e===!0){if(!document.getElementById("LPCodeKitLiveTransitionRule")){var o=document.createElement("style"),r="transition: all .3s ease-out;",a=[".lpcodekit-loading * { ",r," -webkit-",r,"-moz-",r,"-o-",r,"}"].join("");o.setAttribute("type","text/css"),o.setAttribute("id","LPCodeKitLiveTransitionRule"),t.appendChild(o),o.styleSheet?o.styleSheet.cssText=a:o.appendChild(document.createTextNode(a))}}else{var l=document.getElementById("LPCodeKitLiveTransitionRule");l&&t.removeChild(l)}var c=[];i(c,document);for(var s=c.length,d=0;s>d;d++){var f=c[d];if(f){var h=f.media.mediaText,m=f.href;if(m&&n(m)){var y=m.search(/ckMarkedForRemoval/i);if(-1===y){var g=m.split("?"),b=g[0],v=g.length>1?g[1]:"";v=v.replace(/(&)?now=[0-9]*/gi,""),v=v.length>0?"?"+v+"&now="+1*new Date:"?now="+1*new Date;var w=f.ownerNode,k=w.id,x=document.body.parentNode,C=w.ownerDocument,E=C.createElement("link");x.className=x.className.replace(/\s*lpcodekit\-loading/gi,"")+" lpcodekit-loading",E.setAttribute("type","text/css"),E.setAttribute("rel","stylesheet"),E.setAttribute("href",b+v),h&&E.setAttribute("media",h),k&&E.setAttribute("id",k);var L=w.parentNode,T=w.nextSibling;T?L.insertBefore(E,T):L.appendChild(E),window.ShadowDOMPolyfill&&(w=window.ShadowDOMPolyfill.wrapIfNeeded(w)),u[b]=E,p[b]=w}}}}}function a(){if(f>100){for(var e in p){var t=p[e];t.parentNode.removeChild(t),delete p[e]}return x=!0,o(),void console.warn("CodeKit told this page to refresh its stylesheets, but one or more did not download correctly from the preview server. This is almost always caused by a laggy LAN. (Are you on public WiFi?) The page's state may not reflect your latest changes. Reload it manually or save your file again to have CodeKit attempt another stylesheet injection.")}for(var n in p){var i=u[n],r=p[n];try{var l=i.sheet||i.styleSheet,c;if("undefined"!=typeof l&&(c=l.rules||l.cssRules),!l||!c)return f++,void setTimeout(a,50);c.length>=0?(r.parentNode.removeChild(r),delete p[n],f=0):(f++,setTimeout(a,50))}catch(e){return console.log("Exception in CKROLE: "+e),f++,void setTimeout(a,50)}}var s=0;for(var d in p){++s;break}0===s&&(x=!0,setTimeout(o,300))}function l(){for(var e in p){var t=p[e];t.parentNode.removeChild(t),delete p[e],setTimeout(o,300)}}function s(){var e=navigator.userAgent.toLowerCase().indexOf("chrome")>-1,t=document.URL.indexOf("file://")>-1;e&&t?setTimeout(l,400):a()}function d(){x===!0||C>4?(C=0,m=!0):(++C,setTimeout(d,1500))}if(m===!1)return void console.warn("A refresh was requested, but the page is already refreshing. The new refresh request was ignored.");x=!1,m=!1;var u={},p={},f=0;switch("undefined"!=typeof ckinjectionnotpossible&&(20===t||30===t)&&(t=40),t){case 20:r(!0),setTimeout(s,70),setTimeout(d,2e3);break;case 30:r(!1),setTimeout(s,70),setTimeout(d,2e3);break;case 40:var h=Math.round(+new Date/1e3),y=e(window.location,"ckcachecontrol",h);c(),window.location.assign(y);break;case 50:var g=window.location.host;window.location.assign(b?"http://"+g+"/"+b:"http://"+g)}}function u(e){var t=document.querySelector(e.domTargetString),n=e.type.toLowerCase();if(null!==t)switch(n){case"click":var o=new MouseEvent("click",{view:window,bubbles:e.bubbles,cancelable:e.cancelable});o.ckSyncEvent=!0,"label"===t.tagName.toLowerCase()&&null!==t.htmlFor&&(E=!0),t.dispatchEvent(o)===!1&&console.log("CodeKit tried to sync a click event from another browser on the following element, but a handler in the event-bubbling chain canceled the event: "+e.domTargetString);break;case"input":var i=new Event("input",{view:window,bubbles:e.bubbles,cancelable:e.cancelable,detail:e.detail});i.ckSyncEvent=!0,t.value=e.domTargetValue,t.dispatchEvent(i)===!1&&console.log("CodeKit tried to sync an input event from another browser on the following element, but a handler in the event-bubbling chain canceled the event: "+e.domTargetString);break;case"change":break;case"focus":N=!0,t.focus();break;case"blur":S=!0,t.blur();break;case"keydown":case"keyup":var r=new Event(n,{view:window,bubbles:e.bubbles,cancelable:e.cancelable,detail:e.detail,altKey:e.altKey,ctrlKey:e.ctrlKey,charCode:e.charCode,key:e.key,keyCode:e.keyCode,location:e.location,metaKey:e.metaKey,shiftKey:e.shiftKey,which:e.which});r.ckSyncEvent=!0,t.dispatchEvent(r)===!1&&console.log("CodeKit tried to sync a keydown event from another browser on the following element, but a handler in the event-bubbling chain canceled the event: "+e.domTargetString);break;default:return}else{var a="input"===n?"an ":"a ";console.log("While trying to sync "+a+n+" event from another browser, CodeKit could not find a DOM element on this page matching the following selector. (Is this browser viewing a different page than others? Did you use illegal characters such as : or / in an ID or class name?). Element not found: "+e.domTargetString)}}function p(){S=!1,N=!1,L=null,T=null,E=!1;var e=document.getElementsByTagName("body")[0];(ckrpLibrary.ckSEF&O.click)===O.click?e.addEventListener("click",K,!0):e.removeEventListener("click",K,!0),(ckrpLibrary.ckSEF&O.input)===O.input?e.addEventListener("input",K,!0):e.removeEventListener("input",K,!0),(ckrpLibrary.ckSEF&O.focus)===O.focus?window.addEventListener("focus",K,!0):window.removeEventListener("focus",K,!0),(ckrpLibrary.ckSEF&O.blur)===O.blur?window.addEventListener("blur",K,!0):window.removeEventListener("blur",K,!0),(ckrpLibrary.ckSEF&O.keydown)===O.keydown?e.addEventListener("keydown",K,!0):e.removeEventListener("keydown",K,!0),(ckrpLibrary.ckSEF&O.keyup)===O.keyup?e.addEventListener("keyup",K,!0):e.removeEventListener("keyup",K,!0)}function f(e){function t(){if(!document.getElementById("lpckWarningOverlay")){i();var e=document.createElement("div");e.id="lpckWarningOverlay",e.setAttribute("style","display:block; position:fixed; top:0px; left:0px; width:100%; background-color:red; border-bottom: 1px solid #980000; padding: 20px 0px; z-index:99999999; cursor:pointer; box-shadow: 0px 1px 5px 0px black;"),e.setAttribute("onclick","ckrpLibrary.disconnectBannerClickHandler()"),e.innerHTML='<p style="margin: 0 15px; color:white; font-size:20px; font-weight: medium; line-height:1.4em; font-family:sans-serif; text-align:center;">This page has lost contact with CodeKit and will no longer auto-refresh.</p><p style="margin: 10px 20px; color:white; font-size:11px; line-height:1.2em; font-family:sans-serif; text-align:center;">Click this banner to reload the entire page.</p>',document.body.firstChild?document.body.insertBefore(e,document.body.firstChild):document.body.appendChild(e)}}function n(){var e=document.getElementById("lpckWarningOverlay");null!==e&&e.parentNode.removeChild(e)}function o(){if(!document.getElementById("lpckWarningOverlay")&&!document.getElementById("lpckLagWarningOverlay")&&k===!0){var e=document.createElement("div");e.id="lpckLagWarningOverlay",e.setAttribute("style","display:block; position:fixed; top:0px; left:0px; width:100%; background-color:orange; border-bottom: 1px solid #980000; padding: 20px 0px; z-index:99999999; cursor:pointer; box-shadow: 0px 1px 5px 0px black;"),e.setAttribute("onclick","ckrpLibrary.lagBannerClickHandler()"),e.innerHTML='<p style="margin: 0 15px; color:white; font-size:20px; font-weight: medium; line-height:1.4em; font-family:sans-serif; text-align:center;">The connection to CodeKit is unstable.</p><p style="margin: 10px 20px; color:white; font-size:11px; line-height:1.2em; font-family:sans-serif; text-align:center;">This page has not had contact with CodeKit for 15+ seconds. This can be caused by changing networks, putting your Mac to sleep, or just a laggy LAN (e.g. public Wifi). Auto-refreshing may be slow or unreliable. Refresh manually to reconnect to CodeKit or, if the connection is still working, tap this banner to hide it.</p>',document.body.firstChild?document.body.insertBefore(e,document.body.firstChild):document.body.appendChild(e)}}function i(){var e=document.getElementById("lpckLagWarningOverlay");null!==e&&e.parentNode.removeChild(e)}function r(){if(!document.getElementById("lpckConMessageOverlay")){var e=document.createElement("div");e.id="lpckConMessageOverlay",e.setAttribute("style","display:block; position:fixed; top:0px; left:0px; width:100%; background-color:orange; border-bottom: 1px solid black; padding: 20px 0px; z-index:99999999; cursor:pointer; box-shadow: 0px 1px 5px 0px black;"),e.innerHTML='<p style="margin: 0 15px; color:white; font-size:20px; font-weight: medium; line-height:1.4em; font-family:sans-serif; text-align:center;">Connecting to CodeKit\'s refresh server...</p><p style="margin: 10px 20px; color:white; font-size:11px; line-height:1.0em; font-family:sans-serif; text-align:center;">(Auto-refreshing will not work until this completes.)</p>',document.body.firstChild?document.body.insertBefore(e,document.body.firstChild):document.body.appendChild(e)}}function a(){var e=document.getElementById("lpckConMessageOverlay");null!==e&&e.parentNode.removeChild(e)}function l(){null===v&&(v=setInterval(function(){try{++w>3&&(o(),console.warn("CodeKit has not sent a heartbeat message in 15+ seconds. The connection to CodeKit MAY have failed, but it is also possible that your network is simply very laggy. Auto-refreshing may be slow or unreliable."))}catch(e){clearInterval(v),v=null,w=0,console.warn("Exception in heartbeatInterval: "+e.message)}},5e3))}function c(){null!==v&&(clearInterval(v),v=null,w=0)}function m(){h.onclose=function(){},h.close()}window.WebSocket=window.WebSocket||window.MozWebSocket;var x;x=g===!1?"ws://127.0.0.1:5758":e===!0?ckrpLibrary.ckrphnba:ckrpLibrary.ckrphna,y++,h=new WebSocket(x,["ckrp"]),setTimeout(function(){0===h.readyState&&r()},1e3),h.onopen=function(){y=0,n(),i(),a(),l(),p()},h.onerror=function(e){"ws://127.0.0.1:5758"===x&&g===!1?(h.onclose=function(){},g=!0,f(!1)):console.warn("Error connecting to CodeKit's refresh server: "+e.message)},h.onclose=function(e){e.wasClean||null!==v?t():"ws://127.0.0.1:5758"===x&&g===!1&&(g=!0,f(!1))},h.onmessage=function(e){var n=JSON.parse(e.data),o=n.c;switch(w=0,i(),o){case"ia":d(20);break;case"ina":d(30);break;case"r":d(40);break;case"rtr":b=n.rtrppa,d(50);break;case"BS":u(n);break;case"sUP":ckrpLibrary.ckSEF=n.ckSEF,p();break;case"sd":c(),h.onclose=function(){},h.close(),t()}},window.addEventListener("beforeunload",m,!1),window.addEventListener("load",s,!1)}var h=null,m=!0,y=0,g=!1,b=null,v=null,w=0,k=!0,x=!0,C=0;ckrpLibrary.disconnectBannerClickHandler=function(){d(40)},ckrpLibrary.lagBannerClickHandler=function(){k=!1;var e=document.getElementById("lpckLagWarningOverlay");null!==e&&e.parentNode.removeChild(e)};var E=!1,L=null,T=null,S=!1,N=!1,K=function(e){if(e.ckSyncEvent!==!0){var n=e.type.toLowerCase(),o=e.target.tagName?e.target.tagName.toLowerCase():null;if("focus"===n&&N===!0)return void(N=!1);if("blur"===n&&S===!0)return void(S=!1);var i="click"===n?!0:!1;if(i===!0&&"label"===o&&null!==e.target.htmlFor)E=!0;else if(E===!0&&i===!0)return void(E=!1);if("change"!==n||"select"===o||"keygen"===o){var r=t(e.target),a={c:"BS",type:e.type,domTargetString:null===r?null:r.join(" "),bubbles:e.bubbles,cancelable:e.cancelable,detail:e.detail};if("blur"===n)return null===a.domTargetString?void(L=null):(L=a,void setTimeout(function(){null!==L&&1===h.readyState&&h.send(JSON.stringify(a))},10));if("focus"===n)return null===a.domTargetString?void(T=null):(T=a,void setTimeout(function(){null!==T&&1===h.readyState&&h.send(JSON.stringify(a))},10));if("input"===e.type.toLowerCase()&&(a.domTargetValue=e.target.value),"change"===n){for(var l=[],c=e.target.options.length,s=0;c>s;s++)e.target.options[s].selected===!0&&l.push(e.target.options[s].value);a.selectedIndexes=l}("keydown"===n||"keyup"===n)&&(a.altKey=e.altKey,a.ctrlKey=e.ctrlKey,a.charCode=e.charCode,a.key=e.key,a.keyCode=e.keyCode,a.location=e.location,a.metaKey=e.metaKey,a.shiftKey=e.shiftKey,a.which=e.which),1===h.readyState&&h.send(JSON.stringify(a))}}},O={click:1,input:2,change:4,focus:8,blur:16,keydown:32,keyup:64};f(!1)}();</script><style type="text/css"></style>
+<style>.pkt_added {text-decoration:none !important;}</style><style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+</style><style type="text/css" id="LPCodeKitLiveTransitionRule">.lpcodekit-loading * { transition: all .3s ease-out; -webkit-transition: all .3s ease-out;-moz-transition: all .3s ease-out;-o-transition: all .3s ease-out;}</style></head>
+
+<body>
+
+<!-- Welcome -->
+<header>
+  
+  <div>
+    <h1>Counterfeit</h1>
+    <h2>New American Restaurant</h2>
+  </div>
+    
+  <div>
+    <ul>
+      <li>Hours</li>
+      <li>Address</li>
+    </ul>
+  </div>
+</header>
+
+<!-- Navigation Bar -->
+<nav>
+  <ul>
+    <a href="#intro"><li>Intro</li></a>
+    <a href="#story"><li>Story</li></a>
+    <a href="#gallery"><li>Gallery</li></a>
+    <a href="#menu"><li>Menu</li></a>
+    <a href="#contact"><li>Contact</li></a>
+  </ul>
+</nav>
+
+<!-- About the Chef -->
+<div class="about">
+  <img src="http://halfbit.com/wp-content/uploads/2014/09/placeholder.png" alt="image" height="100" width="100">
+  <h2>Meet the Chef</h2>
+  <h3>Description of the story and mission behind the food</h3>
+</div>
+
+<!-- Pictures -->
+<div class="pictures">
+
+  <div> 
+    <img src="http://halfbit.com/wp-content/uploads/2014/09/placeholder.png" alt="image">
+    <p>Text</p>
+  </div>
+
+  <div> 
+    <img src="http://halfbit.com/wp-content/uploads/2014/09/placeholder.png" alt="image">
+    <p>Text</p>
+  </div>
+
+  <div> 
+    <img src="http://halfbit.com/wp-content/uploads/2014/09/placeholder.png" alt="image">
+    <p>Text</p>
+  </div>
+
+  <div> 
+    <img src="http://halfbit.com/wp-content/uploads/2014/09/placeholder.png" alt="image">
+    <p>Text</p>
+  </div>  
+</div>
+
+<!-- MENU -->
+      <div class="menu">
+        <div class="menu-nav">
+          <ul>
+            <li><a href="#drinks">Drinks</a></li>
+            <li><a href="#apps">Appetizers</a></li>
+            <li><a href="#bfast">Breakfast</a></li>
+            <li><a href="#lunch">Lunch</a></li>
+            <li><a href="#dinner">Dinner</a></li>
+            <li><a href="#dessert">Desserts</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <p>Drink Stuff</p>
+        </div>
+        <div>
+          <p>Appetizer Stuff</p>
+        </div>
+        <div>
+          <p>Breakfast Stuff</p>
+        </div>
+        <div>
+          <p>Lunch Stuff</p>
+        </div>
+        <div>
+          <p>Dinner Stuff</p>
+        </div>
+        <div>
+          <p>Desserts Stuff</p>
+        </div>
+      </div>
+  
+  <!-- Contact Information -->
+      <div class="contact">
+        <div>
+          <img>
+        </div>
+
+        <div>
+          <div>
+            <p>Address</p>
+          </div>
+          <div>
+            <p>Make Reservation</p>
+          </div>
+          <div>
+            <p>Hours</p>
+          </div>
+        </div>
+
+        <div>
+          <ul>
+            <li><img src="" alt="twitter"></li>
+            <li><img src="" alt="facebook"></li>
+            <li><img src="" alt="instagram"></li>
+            <li><img src="" alt="youtube"></li>
+            <li><img src="" alt="googleplus"></li>
+            <li><img src="" alt="yelp"></li>
+        </ul></div>
+      </div>
+
+<!-- Footer -->
+      <footer>
+      </footer>
+  
+</body></html>Ytext/htmlUUTF-8P_http://enge2.local:5757/¢Ô_WebResourceResponseO°bplist00ÔZ[X$versionX$objectsY$archiverT$top † ¯#)*0123EFGHIJKLMNOPQTUU$nullİ	
+ !"R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1€	€€€€€€€Ó$%&'(WNS.base[NS.relative€ €€_7http://enge2.local:5757/css/style.css?now=1440560847342Ò+,-.Z$classnameX$classesUNSURL¢-/XNSObject#A»nOZŒ7ÈÓ456=DWNS.keysZNS.objects¦789:;<€	€
+€€€€¦>?@BC€€€€€€€TDate^Content-Length]Accept-Ranges\Content-Type]Cache-Control_Access-Control-Allow-Origin_Wed, 26 Aug 2015 03:47:27 GMTT1507UbytesXtext/css_.max-age=0, no-cache, no-store, must-revalidateQ*Ò+,RS\NSDictionary¢R/ãÒ+,VW_NSHTTPURLResponse£XY/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverÑ\]_WebResourceResponse€    # - 2 7 R X s v z } € ƒ ‡ Š ‘ ” — š    ¢ ¤ ¦ ¨ ª « ­ ¯ ± ³ µ · ¹ À È Ô Ö Ø Ú$-36?HJLS[fmoqsuwy€‚„†ˆŠŒ“¢°½Ëé	NPUbehm…™§¹¼Ò             ^              ÔOãbody {
+	margin: auto;
+	width: 900px;
+	background-color: black;
+}
+a {
+	text-decoration: none;
+}
+
+li {
+	color: white;
+	list-style-type: none;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	background-color: hsla(0, 100%, 10%, 0.3);
+	margin: 0;
+	/*margin-top: 50;*/
+	width: 100%;
+	position: fixed;
+	top: 20px;
+	float: top;
+
+
+}
+
+nav a {
+	color: blue;
+
+	/*float: left;*/
+	display: inline-block;
+	overflow: hidden;
+	text-align: center;
+	list-style: none;
+
+	margin: 0px;
+	padding: 10px;
+	width: 100px;
+	
+}
+
+nav a:hover, nav a:active {
+	background-color: #7A991A;
+	
+}
+
+
+
+
+header {
+	max-width: 10000px;
+	background-color: hsla(0, 100%, 20%, 0.3);
+	padding-top: 100px;
+	
+	/*height: 500px; */
+	height: 95vh;
+
+	background-image: url("/img/dragonflynightclub.jpg");
+	background-size: cover;
+	
+	background-repeat: no-repeat;
+	background-position: center top;
+
+}
+
+header div {
+	margin: 10px;
+	text-align: center;
+	
+	color: white;
+}
+.about {
+	height: 400px;
+	background-color: hsla(0, 100%, 40%, 0.3);
+	margin: 0;
+}
+
+.pictures {
+	height: 300px;
+	background-color: hsla(0, 100%, 50%, 0.3);
+	margin: 0;
+}
+
+.pictures div {
+	display: inline-block;
+}
+
+.pictures img {
+	float: left;
+	width: 100px;
+	height: 100px;
+}
+
+.pictures p {
+	text-align: center;
+}
+
+.menu {
+	height: 300px;
+	background-color: hsla(0, 100%, 60%, 0.3);
+	margin: 0;
+}
+
+.menu-nav {
+	/* background-color: pink; */
+
+}
+
+.menu-nav li {
+	display: inline;
+}
+
+.contact {
+	height: 300px;
+	background-color: hsla(0, 100%, 70%, 0.3);
+	margin: 0;
+}
+
+footer {
+	height: 10vh;
+}
+Xtext/css_7http://enge2.local:5757/css/style.css?now=1440560847342ÔO‚bplist00ÔfgX$versionX$objectsY$archiverT$top † ¯#)*0123KLMNOPQRSTUVWXYZ[\]`aU$nullİ	
+ !"R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1€	€€€€€€€Ó$%&'(WNS.base[NS.relative€ €€_=http://halfbit.com/wp-content/uploads/2014/09/placeholder.pngÒ+,-.Z$classnameX$classesUNSURL¢-/XNSObject#A»bH´Õ„ ÈÓ456@JWNS.keysZNS.objects©789:;<=>?€	€
+€€€€€€€©ACDEFGHI€€€€€€€€€€VServer\Content-TypeTEtag]Last-ModifiedTDate]Accept-Ranges^Content-LengthZKeep-AliveZConnection_gApache/2.2.23 (Unix) mod_ssl/2.2.23 OpenSSL/1.0.0-fips DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4Yimage/png_"152041b-310b-5023e0f060e89"_Thu, 04 Sep 2014 14:20:46 GMT_Wed, 26 Aug 2015 02:56:08 GMTUbytesU12555_timeout=5, max=100ZKeep-AliveÒ+,^_\NSDictionary¢^/1Ò+,bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverÑhi_WebResourceResponse€    # - 2 7 X ^ y | € ƒ † ‰   — š    £ ¦ ¨ ª ¬ ® ° ± ³ µ · ¹ » ½ ¿ Æ Î Ú Ü Ş à %09?BKTVX_gr|~€‚„†ˆŠŒ˜šœ ¢¤¦¨ª¬³ÀÅÓØæõ u¾Şäêÿ
+"';?SasvŒ             j              O1‰PNG
+
+   IHDR         \r¨f   tEXtSoftware Adobe ImageReadyqÉe<  0­IDATxÚì]	\UÕ~¯{¦gºgÍ¬YùYÀ„°Èf±)5h(‹TDA‹Ò’Í€¨%¨,–X,U‹Å‚Y¬¡bDILÈ$`Ö™Éì{Ït¿÷ŸïæöNçõ¬ıŞL÷œ¯ª«gú½îwß}÷|÷œsÏ=Çv]×3¶€@  „ €@ B @@ ! @  „ €@ B @@ ! ÏF-Z)))‰Ó¿zÒ¡0SmyT‚œ*ÛVB
+…ãÑ{œŞŠŠŠúşõ¯	hœtÒIÅeÔ†2ú7ÂÏ¨;QTAÎ>5iaÓc:I„ÃáîX,Ö½víÚ¡I Ç{l)½ÍJ&“%ztº`&€Æ|ïDC‰D¢›´‚öõë×Ì8î¸ãŠézµÄ˜õmêG†„`¦jÚ´MÒ«³¬¬¬e*4‚@à¼óÎ544TÓµª÷“Ÿ¾@Fƒô¾oÃ†yE GuT¤°°p.©;%¢ê#ûH>:HNšŞ}÷İdÎ€¶õç’İS(³¾@0&„I^úH.w‘60˜³@Â_N72—Ø,ä×¬OZEê>4{N–…ñÆmµ
+
+\kÚú{²×C;Ôµ¨™îÛò£iı`}ı±¶ÃxV6ÿdÛ’-ÀQHr§Isi9G ~z›µ&[Â¯®2©§’Å8c×a Ø~Ç&èv¸^ƒšÛí{÷ê¯6qı±´c´Åõ‹@X) ×?W	²N Pû©ñó³9ó³ğ³ĞãAë‡m#†´¿ÇÕÖÂÂB—…ß¾²Má§kÛ“¼f¦v¸Ôk,í0îßÎ“ëµ!óİ§ç‘±-z|»~i¬	ĞŸ;ŞÿıÁiO pøQGL‚Zà‡ğkÁáAãÿS'á5ì¡ëÿÇnt…Ã©‡Ì8:Ú6àâñ¸Í×Ç5qı¬€á0·Ã©¿Óú$Ôßß2…Q·%›×Ç€W}@¯®—î‡¬^?S;2ôƒm´#d‘Ÿmá>Iwjkm$İ™Ahè+--ıïÚµk³îGËm-[¶,D7é‡Ã/%üƒƒƒÀPooo¨¯¯±áŠŠŠP,ãY‰z<ª]Š ğ`éáaô8t½$„PÏ.ê¹Òÿ 7<]%x°ÙR=¹Zàô#µ!Ïy é¾A…éï¿ğõñŞw¦ëÓµĞx§Ç™D8+4#‹û×§6†ÑÙ¼şHí@?DÍãÏíóó`Ñ¶ û÷Ëä~vĞŸnÁemÁ65…	C¿ëîî®£§­@³İpíD…?İ±d²ªíÕ¬‰D
+éZÑc9&VSSS4{öìÂùóçVUUa Lø~Ø¾Ããÿîw¿ÛûÀ´UWW«€™ŸX¸`ÕªU‡ÔÖÖ™ZG¶úP6õ“Àƒ—^zéGíííC˜q ÄwÜqÇEï¹çCèœá“ÈêõÁq Àï}ï{mŞ¼y€V]€¢}ê©§Æî¼óÎƒ5d]“Loõ}òòË/ß¾cÇ8÷ˆ°¸¸8üàƒş=ÿ˜éö£-vêÿõıîçŸ¾»²²ÒÔ l:†±c)±£Ø¥ñšÒè&ã7ÀıÒïîZ¿~}×´Ó ?şxlà©2cø' â{ÚnlïïÛ·E¥·ÜrËÁõõõÅÔş¹|	$ø"5˜´šUğÂ…Kˆl"V èéé)²ö/%ô †dÑì_°hÑ¢R¿¯k’h•ßå™DHıPj\šinAí'2zè¡¥sçÎ-¶5¥‘Í/·.ÿMÄ%²LlÙ²%Q^^nÓsÂ1˜râ”óp"×¥{®#òïÍfŒ@(‰†¡_Æk÷§Ù÷j–§¿Ãô{°ëÔÿPóñ7f»]»v¹4ãû.üfÛ´:	sCÙœ$€2ÑµÃ»móL ²¤>q‚¸>Ûµè¼p}¢øõOúe±˜û((8r61Fa’’†TøÛßşváêÕ«¼ã;æ`œîİ»7LZAi0ÔÎ0Î…M¯}ãÔ.åÑ÷ª³y?“¤c=zJÇ«ú£ô`RÂ¢
+·µµ…hæÓìÆg <tš‰Bo¿ıvü­·Şê²‚)	t’Æ¨£'å„„YtÖYg•×ÕÕÏ›7¯øšk®™·fÍš…¤­ÖaDš››1©R$€±?^€†M×­<å”S
+§`ö§›©¯Œ…Ÿg}útPx÷îİP±£°³Ï=÷ÜJRûmí`RN¦÷•W^	„ ´æ²í‡ÿáô!›.°Üt­áŸHÅ'`ò	BÂõÙ›>À×‡ş– û}`¼Ô³c’û((ĞÄ”¤ñë¤ù«BË—/¯4Ï#"(ºé¦›æ¾üòËŸyæ™eÛ¬	€4´¶;.@ßÃÉNdå´ğĞìİ}%Ú;:^ÕZym!ü`ÆÆÆFûë_ÿzù­·Ş:,º`Á‚Ø‹/¾ØGîh[Êª¬¬´^zé¥îë®»ËB!VÉèû.Î£Á~kw‚d6Ì	ØÚÚ:ˆëâííÅÃJ644ôÖÖÖ&‚rBöĞ&İkbëÖ­=A8©X•à¨HÌ|ÔÏ	ê‡ € /Çá€^“Onß¾½f€ßN@\—ìú0]¯—&«$÷|2HfsòÉ'—y}ÿ„N(}üñÇ¾ıöÛïºë®VÃp&ãGÑ¯˜Ñö1;õ8¨ - 5Ë‚“ê¬ñzşÓg~°!T}¶ğ7ÜPı“Ÿüd.T}>ÿî»ïŞsíµ×6Î™3G	¥^r	QgÎ¦+|çwúÖ­[ß¹s§£$Üwù€e@ÂË€Ô½§{Ø²SÛ°eÀôÌıäaË€jKeÚ2àd~¦e@“À(Ë¯ëÖ=Î†-jç`Øç‘şL°1bÄg˜ZZZ,šéëo¼ñÆƒFû­|°ù‡?üa#ıN²¢¢÷“Ôñê>ÇJ:LxÒÚğ„5 lñ¥—Ó¤œYÓ"ÌüÔáÛn»­fõ9é'ë[ßª{î¹ç:Ö¯_ß_SSÃ‚áÒ¹»ÛÛÛU@
+Öÿõ²KJMš€W7E šdT /áh5TÍôÔæ!¿0#Œ„ãPESŞg+À@ ôƒvˆºSäê6à•ô;×¢gŸz&šá›²¡¡Ğ8¤1:âêĞW\Q-âòË/ßCÚE$`Æ¬8c¸t 4IÀ„Y{ñâÅ1ÿ7Õ?åíÇÌ§ÈŞ½{C?ıéOën¾ùæ¹™¾GjNÇ…^¸¡R» à€ÚÖ~C]›$xz\¬í˜ªP`Ç¼>Ø]]]!2Y‹/¾øâ*2ckêëëG$‚U«Vµ|ûÛßŞS]] ‰&Ar”dmÇkš—@×¢s·OvIpÂ 56ª7,8c~èQÑ|ğìCø‰	g]ıõsFú.X,«×PyFJ×*Æ­öæğĞ$Ô À}¨ot/˜ıÂ›\^{áùå”aN ×C;´,8©s‚l‹wÊ4*++³È“ÛüÄOt“)[{ÁTeúÄ={W®\Ù<oŞ¼İì°F#=6!ˆèàè£Gß­#(•_ÏşPû?ùÉO–<ûì³‡Îš5« Ãwœûî»¯ñÖ[omK–––&Á¾FDU¦Î™pgÈv`Ï~íÀÏDû ,ÃŸ–±•_ëÚk¯­†o€Æ­gL2œ×—]vÙÇÏ<óLçÜ¹s¡@P~Ÿ±h':‰CZ¦„ –.]z(	cñh6·©úÃæ§Î) ›/\³fÍÁ™<§}}}±è."€¶ÚÚÚdIII’:'aîÀòs?¶@0­6`…ùÕÔÔ"Óµü÷¿ÿıüL“ÜöíÛ–-[¶Lˆ¸v
+&àïĞšî¨@ç·zè¡D"^˜0eÂ>fj¿êçœ~¡ıèGÕ™„Ëyßÿş÷wİ{ï½íuuuN,S¡”,ü&€@88.DÇE(¡Å$EcUÙõõõõÉ§zªëê«¯Şåi¯ß á-&-¡>8´±ªaF}f &€LIízš0€Æ0ûsâ%ü™<âˆ#Š®¸âŠšLjÖ/~ñ‹ÆGy¤ƒ:ëÿXûMjÇ‹äLK"Ğş	µJ‡fr Tû'x¢ó–[nÉ¸‹oÅŠÕŸıìgc!#Ş6M›‘&aøÓ¦„ Æab¨Ù7FLg_uÕUU³gÏöô=şøã­wÜqG+?:3mTH@0­µŒUŒYŒ]¼h¬;÷ÜsOû³Ï>Ûîõ]ç¡+¯¼²;]Ór,ŒIÇöø)! D„Ñq¢B%A‡vXä+_ùÊ,¯sV®\¹¯¬¬Á7°÷†ÓOÔ~AN›zì*“ ¸¸8yã76ïŞ½Û3«Ï¾ğDöE±§€M 3¹Èò5,fZi æn:Ø6­­­öùçŸ_>gÎÏÙÿW¿úUó®]»âåååÊæ‡GT„_«Ú ltŒaŒåÊÊÊäÖ­[ã=ôP«×wb±Xø¼óÎ+ïééIeºÒfó¨×›lÔ£Ÿ& Š¨µÿ’’’ğ—¾ô¥
+¯×¯_ßûØcuWWWCØ“†ÓÏáä"´9àòdF$à¬Zµª3“ğ™Ï|¦”ÎÁX;-ÂÒßvúõÃ†úoó†‰£>:æuî£>Ú.DNšÚ/6¿ W5”O ›–0¶?şøãøêÕ«;½Î'ùˆqÄ…f¾	?ãÓ Øùwúé§Ç¼‚"õâ‹/öêÎJš¡¸2Œ¹­¨ıÅÅÅÎK/½ÔåµOfÀ™g%YñL2šSÀ¶n”3é,Y²$êuîºuëzwìØ1„Í7z¯·Øı‚¼Ñ,/˜o½õVßŞ½{=óü#Ï¥N>Øäç«”Á@tãjıßëœÿûßı¤%ğ¶[g"y‚iìP¹ áÀdH3üàÖ­[ûæÏŸ_Œ ·¶¶¶Aì$„“ğÿøG×ìÙ³Z˜øE ÃœH€@7VàAî–-[È>2-XbûòI€ i¹ˆtµî¿ÿşÆçŸ¾´AÒHhÒŞŞåB§¶¶6ĞIĞW ;¥*7N6ş×BÌÿæÍ›ãH9­(,±ıù¨@¨‘S ¬¬Ì}íµ×ÅkøˆçW9jjj,süO¦–Àt  ×ĞT89<|`Ç'ú°d“ ?Á™êÔ–v"^ëWŸëÜšì/VCñóÇqSÚ«ïìÛ·o€ÔŸBŞ}VljjBİ3x¶{à7bùC ß4Á©eqs’4ªY©•3-ödjL)`Çz&{A{zzÏ9çœu.=“âtr(­Ÿ˜ ‚|URÛïÛÚÚ”? İd®­­EÁ;×€)ï'Ô{Îp‹'ŞC í ¸¸8•óN"ÿù^ÓG‰9T˜ºòÊ++KJJ
+yÉ\çt|òÉvää,XXB÷Ó)î§´¹Lø¬¦xS‰¬´ºi2Tù¨ı[:.r’à\wİuªªª†-c5à…^èillL’¼XAÄùflóLÎP½AÂ1_Öÿê¬û@ê¿Ö~¹¤ùçà3Ú<µ-Øo˜xÛŸÁB¡f-À+Ìşc7` ğmÊeÛFçä'¶Î¤R,sÉ-íùwuFT1‚|6¸¨¨ÁW0¬¾ß«b~J›m?‚Ú:o{Èú_õT5ãFÅ Èws ã1]ù9«åÍ' 	ØbáGé¦êêêB]ÂÉÌãŸìééÒö¿dÉi`k	^ç "ÀÌá_½zõâ²²²0«>pş!èÜsÏİÒÙÙ	ƒH¥7O¡D@0	 ª<jæÁë	‡f~?²™çÑgÈ¡®‹<ºë‰&  _W¸ˆ&Ì Ìì¦BCÚ3È²‡@ ğ™ Œ%³˜æöŒ®rj[²)äŸ É`D7–ClyA –2²Y§] ä˜ „ €@ B @@ ! @  üß' Œ‘Špy¼ 
+„ÁÎè®Şúî9»£TÎ”% ä#	è*Xu™¼T‰pÉ
+,ä8°=°0³CÀA ¨“‘~^$AÇ¬à•=8›Ü[Ap¶?«÷É†††Şºººï–ÅLß××‡ÿ“tCdàQÌwĞE‚Îv­Óà;ñx<qÉ%—|„lY<Ãë:N‚€ryV@u2§\º²@0 ªıê
+YH…çí‡Y,7e"° keº9K n½¬‘ÑéaxD%¨ ŸÁµ2•PC3†/À	ËÑ%ô“_œ€†ç’…ßó†ŒÏEø3ŠÆø™ïğE`»*VeÀlê èc8Gëw)$`ª¬]®”ÛŸë€’]ÈÂè«	€@Úox4éÆ’¨À% äÍÍÍô`1"Èû©Ÿ Âßİİm{ø @¶^)À1'g	ÀÚ_óO©÷===ƒ¨ ”L&C:K°òäóz
+òf©¼x<*...¸ï¾ûæVVVFL cÉn¸aW¿Kç Tï•²|ùe±¾iWG6YƒZøÕcI„nÒ…ğcù/Qıùl@õ§	Ï.)))8ûì³kÊËËÓMç›nº©‰4ƒ$d´-Ÿ+eùª^OåíÔ¥ÂØşW$ S—<,q
+ò\*O}U)«¯¯Ï!vÍü®¤•òğæ œ# ½ŞÉk –Vc\„;&‚¥…ßåïy®@¸S¦pšÀJ¯¢å·S\tn @ÀK—ÃóÈÇŠY¾Â·)³¿¾!u3¬ÖXi‘OËÁo Z€ ïÁ+aÀòÒrÑ`ÂêììT5±¢í"Q€ÊQh¨:âÌt-ÁëïÜ! sÙÂëœvÚiQšñÃ¬ÀË‰e7öë™$ b¦ıv|‚ 4 A¨¦¦¦ğá‡>@æ	MMMË—/ßÜŞŞîF£Qå@ ‡	€—=°ì§M0	wˆfùa*42	°_8aIyp pø:Õêxgµ®‰5ÿôãH† ¯gÚº§< —	ÀHc¤4 7xÍğğ†"<Ø’åH ÿ4 ÖFRï%1‚|"€‘Ö;ÁĞ €@ B @@ ! @  „ ÿ¹1„ ‚€1R=LÎ…TÍL!  Øİ5êaxSå	yHH‡—i†×)ô&¿·Ç>Ûã‘şËƒ ŠŠŠ` ¤ÌçÒàL ÆÖz_à{yp@’Vï“½uuu	$Åá™¾¯¯ÿ'QO“ÈÀ¢@¨ï9¸õ»B‚™
+Îv¬X˜áãñxâ’K.ÙNæ~XÏğ¶®í$f­Ìœ$ 0åôÈÄdøBM›G ÈCPÙ®1ŞuÅ,eÂè¥Jæ!okºR¶Ãåòü.–ë·àê›F€"i(—ÇÍã\¿K!	S³*ö©ı !WgÍÑš°c¤ÄdBô-' Qó7•ÌpCª*0«GAŞ¸@ ğOàbŸnii©3000tıõ×o£ÿÃ\öÇz{{aòE£QG«:)†”G#ÈC°ÃKå|™†	2Ìá@äÀàÊÀ(òÁL<öØc|ãÚ.R¥Á*++Q180›G <é52C¨‰¡'DE¦Ğ¬”…óı”	?} J q$à¡Ù³g[º>z’OĞv¿c˜"ü‚|$ &U'ƒ4Ş‚Gyäººº¢ôeÀ‹/¾x{GGG\Ññ]ğ X°ö;•·œ)X;=\3èA*òĞ  ö„.\XRUU1“¦ŒU1TË
+áoÈ‹ß¸»‚Ÿ¾ö/^A>ã›… L€x<~€`Cèqç²¿ÀoÙğmÊå*ÀÚÉasğAı‡úƒY_/ı¹Úö‘#Èg(@¦šºš6;-¿—Å|¾Q›K„ãÙiU‚8,ÒÕTÄ”ŒA¾
+?^(œke¨„…h!-'ÀĞNöz†è†ÃÕÕÕ…x7	€^É!mÿ+¯§ŒÁğd<f¬ä.0™0óCøW¯^½¸¬¬,¬íµîÙÔÔ?÷Üs·tvv*'!iø+f€@Òr ô^ ¡¾ğhbæ‡ğ—””‹¦Ï
+è8ÖBC:Iß´hA ğÕÅ[¥Áa`f÷0ûc¶>×– Ç	ÀHbÀ¡N|®""õA¾i †S#ãuØ'„½#$ x29ÔQ Ì@@ ! @  „ €@ B @@ 3K C!7Èâ B Apà*@îH€*ZAÕÌ‚…ª‡1R½LË(ê÷öx! Ào‰×¥òE>t=Ì¦x=ó«ry:_¦ïÜ[A0ª?r_(á'áNvww'b±XøµAm”ÊK¢&wp.H —³kÁäüçú—¨‰ùå/ùCLú–QäĞÕÕ5XTTäµ2sW€#Ã«,¸@0Ó Ëä¥Rà·µµ¡.FÈ¬”E²‚’áªPnPµ2¸qU"|’²à‚e
+@&0Ë»Fîo.’Cj?Ÿˆ<„|zó†‡ÕÿK~Ø‘±!Lyâçsõ_¨=^^O|¦=¢®>×w§‡@0…P2€<™¨—„¸¦	 ÇşÖEAIïğ²Ò~Ã£I³<¼*9 YPxDAÚC*¦€ /aVÊ¢÷pUUt}O' “ÄäŸRæûéğSHy2;;;‡Î>ûìM^¥Áà5½RHoĞ…rS•²***
+şô§?^___”¾øùÏş?mmm–®”å÷„è‹´A˜u}@åõÄg­­­WqP-ü{=‚|UıQ)…pPU±Ò+eÑøÇñ0ªiÅb1WÊÉÙU W/}Xšlv›‹êòà®±ä˜çS \* =+ea% •´ğ¢sH$â{Û|# ¨òP} Øš,CõgÁ2„ßõ_0ø@;ÿ<wûU´Øaè«S<ˆÊ@#ªEÁL32	¿–[k4È·)W;>ÔMkï'«ÿ¦À2X~Ñ36“­\-ÎÇğÒGgg§ª¨xµ-²¢¢")Ë€A°ğ… ôlŸZ÷ÄuN;í´(ÍøaÖàü‹ÇãÉ7öë™$ ïO@€ "èïïÕÔÔ>üğÃ‡céÃ<¡©©i`ùòå›ÛÛÛİh4
+“@-Êr @ÃÀËX÷Ô¦@˜„;” k¢P,q
+
+Ã×©V¯{bÍÓæ8gğvê5Ñ”¿@f Ç	ÀXúS ¼fx,u`O´%©É‚üÓ XI½7Ö;Åò‰ ‚
+fÓTB @@ ! @  „ €@ B AŞE@2
+d(¤rdês\!   2_ërxŞ' jH€u… ‚) £(î0èúÏş~o|—ÊƒjTxÈ‡©«ş>C-Mœ‹ºA´MRğ
+…Ÿ^‰æææ&öôõõ%QGõ4‘@$àw] !   ÁTê?JáÅãñÄE]´M'ÃIi "!³VfNk `µÑT™‘<¢A¾@—ÉS)ğ‘»½½}À93àøƒúOÂïåò,?+ûF :)è03(ƒ ³GTê
+f\=ã+M€à˜€¶ı­ e!À;ÚãézÍşP{Dø3	:[¶Êœ­	ÀÖfàê°/ {=¡şC…Úƒ´àéç¡Z0@WjßN`*êÿĞĞÕİİmë¬Ø©ù2PVVfG";¨IÑ/€»‚W$àª“Øºuk
+ƒğÃæinnƒYøeˆòºŞ_ªR!|ê©§FIĞ¸R–ö$ßÿ}TÊÂ¤©Šäø]/ÓhâÎc=ö#´¹Ö9ı¢ ø›	 7LBŸèï$)`‰Ä’Ò`‚|×½ ™?Ôßß5kVáš5k¬¯¯/6ÏÃ2àgœ±±¥¥%FÕr Çx‘
+&O:¾û½÷Şë™n@Êë‰¶b¶§›O¤¥g!åõÔßáä+ÔøG5,TÅJ¯”Eÿ‡h>cNT…2÷ÊÉ½U€tS ï°õÉæ‡F nH¯
+˜@|A^‚KåaÖÖÚ@(m•ŒguKkÍ#ÖÒÈjÛäñÁò¹şŸIK`0œ„9©0‹)Öó0BÆ2``O`
+M€æ@S€œUTÇ7`¯'T0	;ü€^N@K{=Uß@M?€`¦B«ÿéhn€^ÚP³}<·KKK{ì±Ã¼–¿ùÍo~Ôßß¯œÚ³éJ€@üÒ XÕQK4Ó,Z´¨4“ìòòr\?ŒÉ¾  `‡„/?J3¸~åõDğı}€7ƒ´¨ü!}ÜÖËòT‚\&€4M ã²  KJƒùC K™–=lsC„< 4 ½^úñ@Ÿ&€@ ÕO0’ù ä4<Æ´- Fµ¢s ÆRä @âä½4ï_õ²§ZèEş ó ²·ÿzÍğØ`Ï‡&K‚|…™üÓö*‚Z TTl & ²ŸzE"48‹¥°‡@œ€‚|ƒŞgéÉÎFnÀH$ò" ÀL¥Ÿë¥ÁÔğ»Hw”~°¤¤$´dÉ’B:¦Ò&él©¢òqöOeÿ]°`A8}_ ¬ä¼	 S±àööö:­­­	/S ù!ü¼ d cFo€†K²€1Ñ™‡¡­­-A$àµ2|×ˆ}Ó ¸"n†„?ùá‡Æ½Î;é¤“btNx``€M[Ì A>	}ºVŒIÏëÜmÛ¶ÅAzåÌÍTOcÚ §1Æp¢M›6õ{{òÉ'—,^¼8Òßßo›ùĞDä£/`Ö¬Yö§>õ©˜×ñÍ›7Ğ¸WIru… _S‚ûí`sJKK­¿ÿıï}ñxü€©:¤à«_ıj
+%˜Û‚e¸òdê:guVñ1ÇSêe6¿óÎ;½%%%—·r9ˆg~ÜH,s7lØ'†óÔ.ºè¢YsæÌ)$3€…_Ì A¾€Ë€¹xÁ,nhhèM?i÷îİq"€~’Î‘Hf,ß®ÀåÁpÃ‘HÄéèèH®Y³¦ËëÜÃ;¬ø;ßùNE{{;nÜ4dørÖö×)ÀUr8¹+++í—^z©wÙ²e[¯¾úêí¯½öZ´œ¿víÚ®ÆÆÆAT²R–Ÿ€b1]ôÃ¡›w~úéN"O©şîw¿[{ôÑGGzzzÜtörPğmâ®ªcñ¶øh4ŠãÎC=ÔqÎ9ç|tÁlyòÉ'÷¾ğÂ-ÅÅÅ‡úï°ìŒª^L’(&ƒ¿téÒ#¹ÊéZ€Ê	H,‡¼{÷î?úè£óW¬XQãuş_ÿú×–K/½ô#êˆ$:¥Âü®.dSøµùjsFl>ü[pˆÓ˜é8–6°öØŸä¬Y³P,×eû?SI0S¶èºdb™×}ÓNH3TàÒÒR0_«WPiCdõéIöØˆĞyÅ$äŠğ«I¯}ûö…O?ıôÒN8¡dÏ=¶QÃ…º_UUåTWW«¬Ø¦ğ[cs &ñSb`vmgŒ™7WVVæ¼ùæ›½üã÷™ç½ñÆçŸş¶•+WªÏé;Jğ¡=p]V©dyP0]U~=N•àÓ{ASSS˜4åØı÷ßØªU«ÿÁ~PİÕÕ…¡j‰œ«gÃG†wÈ×Ämù]c¨¥¥eR³â„M ²×I3ZîfÅŞŞŞª£¾üòË‡WVVŞ}÷İ{îºë®v°	ı¯‡Ğ1===ŠÙˆ4ÔıjÇHjyR1S,ü¼Z¥T~TÁ¦÷0}&á~øáEdß´dÉ’şÎÓO?İrÓM7íÙ¹sg|öìÙ®Y›gı±¬ıƒlè­•Ôÿ&w{é'C óè»•ºá£v¬;,L6‘µlÙ²R¤ÿóŸÿÜ_SS2ó9à~úÓŸ.F\ô«¯¾:P__o³¡Í	E&èjÄÃHÒĞDÆ£ÆùiÇøÚ1úÁl4SŒ1z‰µ­¯^˜ù÷îİküñQø»>ñ‰OôÓĞĞĞwûí·ï\³fMçheÀG!€Æ>ø uJ4 Rmªémö	@]K7Z©÷ˆ‰†fPZZª>cMT$ëÈ#,zöÙgƒÓäç?ÿùnR¡:ÉÖ±°’ ;Ë1´‚ì%ÏhjM5½“Ù¤0ªàvÀôÓ¡Æ`·n‡IØÓöyp€o\#W¼ µÛi­a¿öŠ+*HÀçÌŸ??’éÂùË_ö}ãßøˆÆ?€3Ş¨?jÃõë×÷NŠ'ñİ¾±?w,êÿéål…Ä‹;ÒsÒ;l#¬•À4oŞ</}ï½÷rê©§¶ŞqÇ­ï½÷Ş –IÈ,P¶“V}Ì5Ó”p[*Õq½AÉÕÖMèšÉS»õÃÍÆ TaùÀó«5Õ'iƒ>ÕlA·Ãì´aÌô\0»š7Õı`>¼¸¼7Oš¬ÑêU.›´ÖĞ¢E‹"¿şõ¯k.¹ä’*¯í¾Œ7öüøÇ?Ş=ÑĞíŠÅbı“íŒ	k HjpÔQGBoÅc-æiÔ´Òm'2Âxıá8xùòåUéßmooO<÷Üs>ø`Ç;ï¼3@ßI ÊP=T	"o¤0MíŒt3‚;RÕcçšíšR|,éÌÆ2àtr'­ìíMµCkG¾·C«›^íH	>Â²ŸÍmÚ¦é¦<áøŸIœ¯¯¾¡)ê›!D§êâ5!mÊ¦V§H‹Uç,\¸0òµ¯}­œfôªƒ:¨h¤‹oİºµÎûKw³gÏÆRw‚cÕ @>ô÷ß÷”€öÔÒ÷ëÆª	d2ğ ;;;C÷İwß‚‹.ºhÎHß£NO®]»¶÷õ×_ïY·n]ÿ‡~8DšƒÊ¤€"£`v­)µ
+Ä@ŒŸd­A6G¶×/ÄZ-Şµ'7d,™t;”“í@¬·ôÎ¶Ã¡v¸F;\ÃÅõ•Ÿï¼£Í·IŸ&êTèç2Œ °TÖ××gc‡hÀıà˜„2Öí@‹ÚÃOç„È4Ï;·€4Óèi§VJï%uuu…£]{Ó¦M}—^zé___ïNÀñÚÿxÔö]¤şwMÚ2™/SÇtQçUOäÁh³€íuRp
+êÙ;ãïÑîsŸ+Ç‹¶577'¨-IRÃyÈÕ¥Ç]~Ñçƒ?ûÙÏöĞ9	™¿O×Ä- ò™KæG„…@¿&Ç®ûgšÔì‚°Ûn»m÷®]»ât¶õ‡µƒL9³fÍ*Êf;ğ}\ŸÛ—;ï¼sOCCÃ Š²3ª9‡èYüæ7¿™OÇÂ¦ş0g"óÄÊ•+wÓs2´2ı@ı4ıb"ùÂ¿üå/ç`†h|„é¼PUUUammm¡WRLøÛßşÖyÕUWí†÷¿ººd“ä	`¼ê?½!d¸'êĞ¤;uéÒ¥óé­b¢Z Ø]«ZaäĞe—]VuóÍ7Ï'†ŒdËÓÓÕÕ5tÊ)§lÀëÊl•´†0Ÿ´Š%ååå…–Ïøâ¿¸ñí·ßîE  nÍ†‘7ß|s1‹øİÒ´6½úê«=*H‹5hb¤šÓìr´ß›Qè™;'xâdŞa@»šmê‡Â)î=+…¯½öÚ‘óæÍ‹Nô÷éw’<ğ@3M@-P÷i¬aÆObíßPıÇåı§ó›Ş}÷İ–lÜÿ¤Ÿ05¨m¢ñÈ¼cĞÒQQ555.ÙøíçwŞ¶§zª•7JLÈ²Â*¤¾Ì)Èpçø=Ø°šÛ¡Z´ƒˆÀ÷v ?#lXmÏ²_&åìª:"T]‘™7o
+úÁÔ:Õ8Ág“iÇ?ÿùÏîóÏ?ÿ£k¯½¶)‹‘FÃÂŸœˆğóìOZG¶ú`Ò »†\×DmDS]“m¥’‡¬X±b'±óGÄÀ]l×ORı³'rÌGL—ˆF{·mJ ³TO4;÷^sÍ5;ÈLıø7Şè&Â!@¦Ÿ„~w¼ÂÏã”¾Ó¾mÛ¶¬Hd%İ©°û
+Kä3Öó¾tœ"HšàSBÆZi×Ë/¿ÜKYrá…VœqÆeÔ™EãM™¬3)M—m^ı ]‰åûÀ¢ëØœïÍì'n‡v’ùŞÌnFü„k<^"u‚Ø‹şĞíqÓ…SØj¼`Ò¡ñèrGCKKËĞºuëzyæ™Î^x¡{[ Ñêİ}É´U(w¼kşz‚í'³¨-«Ï ?òŸÿü'~ÜqÇµÔ[ãÌbÂ1	(uU__÷•W^ézñÅ»:è ‘@ôˆ#(^°`A„Ş‹jkkˆ,
+2­»‚,º»»“Fœµ›F>ê¡à$cğ³B–.qz€›‘ŠÊ6#’¨úÕôœ‘¸göÈsŸ`à£ğçP$Õæg;pŞújš‘ølŠú¥BÏ©	¬<A@ªmÈİ·eË–øÎ;â¯¿şzÍÌƒt„´ÏŸ?_­BqŒ¿¹Ég"i¾tÿ4“,dÕ4ÊZI.PéÒ¥KĞï•MÄ!ÈÎ°´ÀN¦–
+a¯ay
+k³˜­ª««á¨gÖæ0M6+°,È;¬@ ôĞ†¨]Iı™¹æŒ%¦pii)€a¾îgeœF}h¼·Aõ Ú“¡!jGÄ¯vhÂK;Âåååp/Qòf¬IÙ›$ L¸Zğ’C˜!9@ˆŸ÷4é‡aíĞñ råWB²[‚šÙ±WkfÈú°½+~´ƒ®½oÃ†ÍY'Âl2ì‰'ˆ´^£ğÉL&Õ."PcÈŒÌÂÃàıÕœp¡Tjß T1~ /ˆBL…$ã:øíÉ8£.Ï4ÚÁIˆ2ƒ’Bé÷ås;¼ú#U½)ÀZ¸6„Şö¾c`Zô	â ô®ÔÔ6u6[Œ{I7e{ÓšVı{Høw¸>¨CY/Ê¹xñâİğôÑDIÀ$ó°–jN’”zgªøææ¡ô6™á·fı/ö;+ª&nÃHíà(@¿ÚaöÉHíà€îã,¶!Õ JÛÏ1]úÁ2f}Sû°ÓîÁ2M˜lîV…ğ#c~{{û	¾ìŒò¥*/™Èz:QS“!tó€Œ•¶9cŒöÓj˜—¶‘eo¸+ís;†	ßtê‡LcÍÜƒ’¾©i²é¼u¸oœÚ°ƒfÿA¿üR¾•å	ĞÌ›¬&0‚v ÚoÆõ{¨œæçí/SÛğØVœ¿;-Ú1ÒìÄíğ«éB™ŞÓ¬†³4’ÊŠ°gšùÉÚ»Ÿoûéõ&ˆ‚èEu
+3	:Ò¯7î^»víß×óu±÷ƒ>è/--ı/	o*‘G,^e!Yi9äCv!ü¾k iÚ@İ\A¡hÁÿ_×À÷æM›6uyıÀ @Ş²¥¼B;9Ülû‚\|®Ú[ß}÷İdĞí” Gu–
++éÆË¯#D ˜aB%ı!zuÒ¸GbÁ©jÓ” Cñx$P†ÌBÖşáräš óß¼|¨ÍŞd"‘è£ñÜMÿ÷LÅŒ?­ÀÄ)§œRØ××¥*&áGøe„:© ½C‚écÂDî~¼Ó«Ÿşîß°aCr:µuÚ@š‰€â
+ÈÈFÑÆ°+A. ‘†ııı	(//O¬]»vÚ:½§%! @  „ €@ B @@ ! @  „ AFü¿  `ŒkÒÒÁl    IEND®B`‚Yimage/png_=http://halfbit.com/wp-content/uploads/2014/09/placeholder.png    1 < N d ‚ ™ ¨GG™GŸG G»G¾GÇGİK‘QxQQ»QÄVJ‡Y‡c                           ‡£
